@@ -1,6 +1,3 @@
-Ok 👍 mình viết lại **bài README hoàn chỉnh để up GitHub**, có **giới thiệu ngắn gọn**, **khai báo API VBA**, và **ví dụ sử dụng cơ bản**, trình bày rõ ràng – đúng kiểu một project nghiêm túc, dễ dùng.
-
-Bạn có thể **copy nguyên bài này** làm `README.md`.
 
 ---
 
